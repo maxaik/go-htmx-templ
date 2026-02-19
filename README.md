@@ -24,7 +24,7 @@ Before running the project, ensure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/go-htmx-echo-templ.git
+git clone https://github.com/maxaik/go-htmx-echo-templ.git
 cd go-htmx-echo-templ
 ```
 
@@ -37,3 +37,4 @@ tailwindcss -i css/input.css -o css/output.css --watch
 ```bash
 air
 ```
+
